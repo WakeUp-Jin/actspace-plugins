@@ -1,0 +1,5 @@
+target/
+.DS_Store
+
+# 构建产物：skill 里的二进制由 build.sh 产出，不进仓库
+plugins/*/skill/scripts/
